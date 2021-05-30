@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 *
 !libraries/*Client/
+=======
+*/
+!*Client/
+>>>>>>> dd84f6f... General: EE and IR Clients added
 
 # Prerequisites
 *.d
@@ -32,4 +37,8 @@
 # Executables
 *.exe
 *.out
+<<<<<<< HEAD
 *.app
+=======
+*.app
+>>>>>>> dd84f6f... General: EE and IR Clients added
