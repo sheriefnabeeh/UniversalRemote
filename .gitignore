@@ -1,10 +1,6 @@
-*
-!libraries/*Client/
-=======
 */
 !*Client/
->>>>>>> dd84f6f... General: EE and IR Clients added
-
+.gitignore
 # Prerequisites
 *.d
 
